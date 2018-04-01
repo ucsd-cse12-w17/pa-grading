@@ -1,0 +1,3 @@
+Host github.com
+	IdentityFile ./source/id_rsa
+	IdentitiesOnly yes
